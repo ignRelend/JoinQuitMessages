@@ -1,0 +1,5 @@
+main: me.davey.joinquitmessages.Main
+name: JoinQuitMessages
+version: 1.0
+softdepend:
+  - PlaceholderAPI

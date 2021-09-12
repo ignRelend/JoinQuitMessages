@@ -1,0 +1,16 @@
+#---------------------------#
+# JoinQuitMessages by Davey #
+#---------------------------#
+
+# PlaceholderAPI placeholders work, but you can also use
+# - {PLAYER} for the player's name
+# - {WORLD} for the world name
+# - {ONLINE} for the amount of players online
+
+# What should the join message be?
+# Set to "" for none
+join-message: "&e{PLAYER} has joined the game. &f(&b{ONLINE} &8/ &b500&f)"
+
+# What should the quit message be?
+# Set to "" for none
+quit-message: "&e{PLAYER} has left the game. &f(&b{ONLINE} &8/ &b500&f)"
